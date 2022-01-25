@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("master");
         System.out.println("hot_fix");
         System.out.println("idea github");
-		System.out.println("bash push");
+	System.out.println("bash push");
+	System.out.println("pull");
     }
 }
